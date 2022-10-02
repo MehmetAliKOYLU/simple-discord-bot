@@ -37,7 +37,7 @@ copy this url and paste it into the browser
 Now your discord bot in the your channel 
 
   
-  pip install discord
+    pip install discord
   
 
 
